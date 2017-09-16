@@ -16,6 +16,8 @@
 4. Три
 ### Пример формулы:
 
+Репозиторий [ссылка на GitHub] (https://github.com/Annexo/r17-sem2)
+
 $$ P^2 = \sum_{i=0}^\infty (-1)^i\cdot s_i^2 $$
 
 |  имя |  ч1  |  ч2  |
